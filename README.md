@@ -1,3 +1,5 @@
+My partners in todays Lab where Hydeia Blakey and Josue Ramirez-Romero
+
 1. SwitchSattement Exercise:
 - Write out a Switch Statement for the pseudo code below
 
